@@ -1,0 +1,7 @@
+tensorflow
+requests
+firebase_admin
+sklearn
+numpy
+
+
